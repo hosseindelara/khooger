@@ -1,0 +1,72 @@
+.boxUser {
+    text-align: center;
+    font: normal normal normal 14px/25px IRANYekanFN;
+    border-radius: 5px !important;
+    letter-spacing: 0.21px;
+    color: #777777;
+    padding: 23px 0px;
+    margin-bottom: 10px;
+
+    .username {
+        margin-bottom: 4px;
+    }
+
+    .phonenamber {
+        margin-bottom: 7px;
+    }
+
+    .Credit {
+        margin-top: 7px;
+        margin-bottom: 4px !important;
+
+    }
+
+    b {
+        font: normal normal bold 14px/25px IRANYekanFN;
+        letter-spacing: 0.21px;
+        color: #000000;
+    }
+}
+
+.boxAccount {
+    border-radius: 5px !important;
+    color: #777777;
+    margin-bottom: 10px;
+
+    .boxAccountheder {
+        background-color: #ffff !important;
+        text-align: center;
+        font: normal normal normal 14px/25px IRANYekanFN;
+        letter-spacing: 0.21px;
+
+        padding: 20px 0px;
+
+    }
+
+    .liaconte {
+        li:first-child {
+            margin-top: 24px;
+        }
+
+        li {
+            list-style: none;
+            font: normal normal normal 14px/25px IRANYekanFN;
+            letter-spacing: 0.21px;
+            margin-bottom: 24px;
+            color: #777777;
+            cursor: pointer;
+
+            img {
+                height: 16px;
+                margin-left: 15px;
+            }
+
+            &:hover {
+                color: #7045D4;
+
+            }
+        }
+
+
+    }
+}

@@ -1,0 +1,102 @@
+html,
+body {
+    direction: rtl;
+    text-align: right;
+    background: #F8F8F8 0% 0% no-repeat padding-box;
+    opacity: 1;
+    font-size: 14px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.container-fluid {
+    padding: 0px;
+    margin: 0px;
+}
+
+input {
+    background: #FFFFFF 0% 0% no-repeat padding-box !important;
+    border: 1px solid #D4D4D4 !important;
+    border-radius: 20px !important;
+    padding: 10px 18px 10px 0px !important;
+    font-size: 12px !important;
+    text-align: right;
+    font: normal normal normal 12px/21px IRANYekan !important;
+    color: #D4D4D4 !important;
+    height: 40px !important;
+
+}
+
+.form-check-input {
+    width: 19px;
+    height: 19px !important;
+}
+
+select {
+    height: 40px !important;
+
+    border-radius: 20px !important;
+    padding: 10px 18px 10px 0px !important;
+    font-size: 12px !important;
+    text-align: right;
+    font: normal normal normal 12px/21px IRANYekan !important;
+    color: #000000 !important;
+}
+
+h2 {
+    font-size: 18px;
+    font: normal normal normal 18px/31px IRANYekan;
+    letter-spacing: 0px;
+    color: #000000;
+    margin-top: 25px;
+}
+
+h3 {
+    font-size: 18px;
+    font: normal normal normal 18px/31px IRANYekan;
+    letter-spacing: 0px;
+    color: #000000;
+}
+
+.form-label {
+    font-size: 14px;
+    letter-spacing: 0px;
+    color: #707070;
+    font: normal normal normal 12px/21px IRANYekan !important;
+}
+
+.formrow {
+    margin-bottom: 25px;
+}
+
+.form-check-label {
+    text-align: right;
+    font: normal normal normal 14px/25px IRANYekanFN !important;
+    letter-spacing: 0.21px !important;
+    color: #707070 !important;
+    margin-right: 23px;
+}
+
+.closebtn {
+    text-align: right;
+    font: normal normal normal 14px/25px IRANYekanFN;
+    letter-spacing: 0.21px;
+    color: #000000;
+    border: 1px solid #D4D4D4;
+    border-radius: 25px;
+    padding: 8px 22px;
+    font-size: 14px;
+}
+
+.submitbtn {
+    text-align: right;
+    font: normal normal normal 14px/25px IRANYekanFN;
+    letter-spacing: 0.21px;
+    background: #FFE964 0% 0% no-repeat padding-box;
+    border: 1px solid #D4D4D4;
+    border-radius: 25px;
+    padding: 8px 22px;
+    font-size: 14px;
+    color: #000000;
+    margin-right: 30px;
+}
